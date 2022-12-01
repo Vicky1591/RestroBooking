@@ -1,0 +1,109 @@
+.header {
+  background-color: white;
+  border-bottom: 5px solid #b941b9;
+  height: 100%;
+}
+.header a i{
+	font-size : 35px;
+}
+i.fa-solid.fa-utensils {
+    margin-right: 20px;
+}
+.header .nav-item a{
+	font-size : 35px;
+}
+.pr-20{
+	padding-right : 80px;
+}
+
+.logo {
+  list-style: none;
+}
+
+.logo li {
+  display: inline-block;
+  padding: 10px 0;
+  font-size: 24px;
+  font-weight: 600;
+  margin-right: 40px;
+  color: #b941b9;
+}
+
+.header p {
+  font-size: 24px;
+  font-weight: 600;
+  padding: 10px 0;
+  color: #b941b9;
+}
+
+.booking_slot {
+  padding: 20px 0;
+  background-color: rgb(185, 65, 185, 0.2);
+}
+
+.party_size h3{
+	font-size : 24px;
+	font-weight : bold;
+	color : #b941b9;
+}
+
+.party_size h3 a i{
+	color: #b941b9;
+}
+
+/* .partySize{ */
+	/* border-radius : 20px; */
+/* } */
+
+
+.container-fluid {
+  background-color: #fff;
+  margin: 0 20px;
+  width: auto;
+}
+
+.smartest {
+  border-right: 1px solid #b941b9;
+  height: 80vh;
+}
+
+.smartest h2 {
+  color: #b941b9;
+  text-transform: capitalize;
+  padding-top: 20px;
+  width: 80%;
+  margin-left : 40px;
+  font-weight : bold;
+ 
+ 
+}
+
+.smartest h3 {
+  color: #b941b9;
+  margin-bottom: 20px;
+  margin-left : 40px;
+  font-weight : 500;
+}
+
+.smartest p {
+  color: #250525;
+  width : 80%;
+  font-weight : 500;
+  margin-left : 40px;
+}
+
+.smartest img {
+  width: 80%;
+  height: 150px;
+  object-fit : cover;
+}
+
+.person_No button{
+	border-radius: 50px;
+	font-size: 20px;
+	width : 15%;
+	border: 1px solid #b941b9;
+		
+}
+
+/* =============================================================== */
